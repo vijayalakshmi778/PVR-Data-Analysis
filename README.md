@@ -2,9 +2,12 @@
 
 ### Interactive Tableau Dashboard | Data Analytics Portfolio Project
 
-## 🖼️ Dashboard Video
 
-![Executive Overview Dashboard](screenshots/pvr-analysis-video.mp4)
+## 🎬 Dashboard Video Demo
+
+Watch the complete walkthrough of the PVR Movie Booking Analytics Tableau dashboard.
+
+▶️ **[Click here to watch the dashboard video](screenshots/pvr-analysis-video.mp4)**
 
 
 ## 🖼️ Dashboard Preview
