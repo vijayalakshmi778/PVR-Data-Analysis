@@ -2,9 +2,11 @@
 
 ### Interactive Tableau Dashboard | Data Analytics Portfolio Project
 
-[![Tool](https://img.shields.io/badge/Visualization-Tableau-blue)](https://www.tableau.com/)
-[![Data](https://img.shields.io/badge/Dataset-Excel-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Project](https://img.shields.io/badge/Project-Data%20Analytics-purple)](https://github.com/)
+## 🖼️ Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview Dashboard](screenshots/overview.png)
 
 ## 📌 Project Overview
 
