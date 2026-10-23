@@ -2,6 +2,11 @@
 
 ### Interactive Tableau Dashboard | Data Analytics Portfolio Project
 
+## 🖼️ Dashboard Video
+
+![Executive Overview Dashboard](screenshots/pvr-analysis-video.mp4)
+
+
 ## 🖼️ Dashboard Preview
 
 ### Executive Overview
